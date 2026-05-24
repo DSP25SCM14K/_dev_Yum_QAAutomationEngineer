@@ -1,10 +1,11 @@
 const focusItems = [
   "Playwright UI automation",
-  "GraphQL contract coverage",
-  "MQTT and WebSocket validation",
-  "Appium mobile regression",
-  "Dockerized CI gates",
-  "AI-assisted failure triage"
+  "Mocha + TypeScript harnesses",
+  "MQTT, WebSocket, and SSE validation",
+  "Appium Android automation",
+  "Dockerized GitHub Actions pipelines",
+  "ELK, Grafana, Loki triage",
+  "AI-assisted test generation"
 ];
 
 const focusNode = document.querySelector("#typed-focus");
